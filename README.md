@@ -5,7 +5,7 @@ Uses machine learning methods to determine the probability of execution for each
 
 ### Added PitchExecution.py, execute.ipynb, sale.ipynb, savant_data.csv, executed.csv 
 
-PitchExecution: class that takes in executed.csv and determines the probability of execution for each pitch.
+PitchExecution.py: class that takes in executed.csv and determines the probability of execution for each pitch.
 This is not robust as all of the data is unlabelled to begin and had execution had to be manually determined.
 
 execute.ipynb: Notebook used to clean the data and determine the execution of each pitch. This was accomplished
